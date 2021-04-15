@@ -1,7 +1,7 @@
 from: yorick
 to: github
 
-cardinals are red
+woodpeckers are red
 my bike is blue
 i got a new laptop
 just for you
